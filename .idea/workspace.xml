@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1b102b8a-8c99-4d88-a9fd-594adabc6dd9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab_2_PlayMoney.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/gl/lab_2_paymoney/TargetDeterminator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/gl/lab_2_paymoney/TargetDeterminatorTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="1b102b8a-8c99-4d88-a9fd-594adabc6dd9" name="Changes" comment="lab program 1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,6 +44,29 @@
       <option name="presentableId" value="Default" />
       <updated>1673270355775</updated>
     </task>
+    <task id="LOCAL-00001" summary="lab program 1">
+      <created>1673277097156</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1673277097156</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="lab program 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="lab program 1" />
   </component>
 </project>
